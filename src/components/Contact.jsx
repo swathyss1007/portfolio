@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function () {
   return (
-    <div id='contact' className='max-w-[1040px] m-auto md:pl-20 pl-4 py-16'>
+    <div id='contact' className='max-w-[1040px] m-auto md:pl-20 px-4 py-16'>
         <h1 className='py-4 text-center font-bold text-[#001b5e] text-4xl'>Contact</h1>
         <form action='https://formspree.io/f/mnqeqagr' method='POST' encType='multipart/form-data'>
             <div className='grid md:grid-cols-2 gap-4 w-full py-2'>

@@ -36,8 +36,14 @@ export default function() {
                     </a>
                     <a href='https://wa.me/+919488217467' target='_blank'>
                         <FaWhatsapp className='cursor-pointer' size={20}  />
+                    </a>       
+                </div>
+                <div>
+                    <a href='https://drive.google.com/uc?export=download&id=13GiztJfztFfDifhWmwzl-zzM-CLFsH0F' download="SwathySS_Resume.pdf">
+                        <button className='bg-[#001b5e] text-gray-100 mt-4 w-full p-4 rounded-lg hover:scale-110 ease-in duration-100'>
+                            Download Resume
+                        </button>
                     </a>
-                    
                 </div>
             </div>
             
